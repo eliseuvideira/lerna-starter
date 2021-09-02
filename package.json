@@ -1,0 +1,12 @@
+{
+  "name": "lerna-starter",
+  "version": "N/A",
+  "main": "N/A",
+  "author": "Eliseu Videira <eliseuvideira1@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {},
+  "scripts": {}
+}
