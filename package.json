@@ -25,6 +25,7 @@
     "build": "lerna exec yarn build",
     "clean": "lerna clean --yes",
     "coverage": "jest --coverage && xdg-open coverage/lcov-report/index.html &>/dev/null",
+    "create-package": "./scripts/create-package",
     "format": "prettier --write 'packages/*/src/**'",
     "lint": "eslint --max-warnings=0 packages/*/src/**",
     "prepare": "husky install",
